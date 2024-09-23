@@ -171,7 +171,7 @@ textfield.bind("<FocusOut>", on_focusout)
 
 """
 
-#ПОПЫТКА ВНЕСТИ ЗМІНИ ДЛЯ ГІТХАБУ 2
+#ПОПЫТКА ВНЕСТИ ЗМІНИ ДЛЯ ГІТХАБУ 7878787
 root.mainloop()
 
 
