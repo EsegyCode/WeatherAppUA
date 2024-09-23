@@ -170,7 +170,7 @@ textfield.bind("<FocusIn>", on_entry_click)
 textfield.bind("<FocusOut>", on_focusout)
 
 """
-print("Все працює чудово")
+print("Все працює чудово 2")
 # NEW CHANGES
 
 root.mainloop()
