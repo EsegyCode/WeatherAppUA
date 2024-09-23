@@ -170,6 +170,7 @@ textfield.bind("<FocusIn>", on_entry_click)
 textfield.bind("<FocusOut>", on_focusout)
 
 """
+print("One more time")
 print("Все працює чудово 2")
 # NEW CHANGES
 
