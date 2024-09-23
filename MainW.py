@@ -170,8 +170,8 @@ textfield.bind("<FocusIn>", on_entry_click)
 textfield.bind("<FocusOut>", on_focusout)
 
 """
+print("Все працює чудово")
 
-#ПОПЫТКА ВНЕСТИ ЗМІНИ ДЛЯ ГІТХАБУ 7878787
 root.mainloop()
 
 
